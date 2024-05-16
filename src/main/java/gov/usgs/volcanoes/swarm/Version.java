@@ -2,7 +2,7 @@ package gov.usgs.volcanoes.swarm;
 
 public final class Version {
 
-    public static final String BUILD_TIME="2024-05-16T17:26:48Z";
+    public static final String BUILD_TIME="2024-05-16T18:22:24Z";
 
     public static final String POM_VERSION="3.2.1";
 
